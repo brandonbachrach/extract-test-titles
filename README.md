@@ -12,4 +12,3 @@ ZSH script to extract test titles from within a project that uses a BDD style te
 - root_dir: .
 - output_file: test_titles.txt
 - file_pattern: *.cy.ts
->>>>>>> main
